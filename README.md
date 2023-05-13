@@ -7,9 +7,9 @@
 
 
 1 Login with his account:
-                      The administrator can access the system by logging in using their unique username and password. This ensures that only authorized individuals can                           perform administrative tasks.
+                      The administrator can access the system by logging in using their unique username and password. This ensures that only authorized individuals can                           perform administrative tasks. \n
 2 Register new consumers:
-                      The administrator has the authority to add new consumers to the system. This involves assigning a unique username and password to each new consumer,                         which they can later use to log in.
+                      The administrator has the authority to add new consumers to the system. This involves assigning a unique username and password to each new consumer,                         which they can later use to log in. \n
 3 View all consumers: 
                     The administrator can view a list of all registered consumers in the system. This allows them to have an overview of the consumer base.
                     View the bill of the consumer: The administrator can select a specific consumer and view their electricity bill. This helps in providing assistance and                     addressing any issues related to billing.
