@@ -2,7 +2,7 @@
 
  There are 2 users in the system:
 
-- Administrator
+
 - ## The Role of the Administrator:
 
 
@@ -22,7 +22,7 @@
 
 
 
-- Consumer
+
 -  ## The Role of the  Consumer:
 1 Login with his account: 
                         Consumers can log in to the system using their assigned username and password. This enables them to access their personal account and perform                               various actions.
